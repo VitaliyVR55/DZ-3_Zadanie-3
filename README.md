@@ -1,6 +1,6 @@
 # Немного о себе
 
-![]((https://user-images.githubusercontent.com/131456242/235394983-00dcd2d9-a8fa-422a-b186-e08bde4f1101.jpg))
+![](https://user-images.githubusercontent.com/131456242/235394983-00dcd2d9-a8fa-422a-b186-e08bde4f1101.jpg)
 
 ### _Возраст:_
 47 лет
